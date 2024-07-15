@@ -1,0 +1,22 @@
+{
+  "buttons" : {
+    "opacity" : 0.31351102941176473,
+    "backgroundColor" : "#bb7730",
+    "foregroundColor" : "#ffe3bf"
+  },
+  "window" : {
+    "blurMode" : "dark",
+    "color" : "#cf7402",
+    "opacity" : 0.09029411764705883
+  },
+  "name" : "Amber",
+  "author" : "RDSM",
+  "okButton" : {
+    "backgroundColor" : "#9a5700",
+    "foregroundColor" : "#ffffff",
+    "opacity" : 0.3857996323529412
+  },
+  "text" : {
+    "color" : "#fdd7a3"
+  }
+}
